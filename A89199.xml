@@ -1,0 +1,319 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A model of a democraticall government, humbly tendered to consideration, by a friend and wel-wisher to this Common-wealth.</title>
+            <author>Friend and wel-wisher to this common-wealth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89199</idno>
+            <idno type="STC">Wing M2315</idno>
+            <idno type="STC">Thomason E995_9</idno>
+            <idno type="STC">ESTC R207804</idno>
+            <idno type="EEBO-CITATION">99866833</idno>
+            <idno type="PROQUEST">99866833</idno>
+            <idno type="VID">168685</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168685)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 148:E995[9])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A model of a democraticall government, humbly tendered to consideration, by a friend and wel-wisher to this Common-wealth.</title>
+                  <author>Friend and wel-wisher to this common-wealth.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for W.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "August 31".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Democracy --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168685:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 62 -->
+            <p>A MODEL OF A Democraticall GOVERNMENT, Humbly tendered to Conſideration, by a FRIEND and WEL-WISHER to this COMMON-WEALTH.</p>
+            <figure/>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>W. P.</hi> 1659.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168685:2"/>
+            <!-- PDF PAGE 63 -->
+            <pb n="3" facs="tcp:168685:2"/>
+            <!-- PDF PAGE 63 -->
+            <head>A MODEL Of a Democraticall government, humbly tendered to Conſideration, by a Friend and Wel-wiſher to this Common-Wealth.</head>
+            <p n="1">1. <seg rend="decorInit">T</seg>HAT the ſupream Legiſlative Au<g ref="char:EOLhyphen"/>thority of the Common-wealth of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territo<g ref="char:EOLhyphen"/>ries thereunto belonging, be, and reſide in a Senate and a Repreſen<g ref="char:EOLhyphen"/>tative of the People.</p>
+            <p n="2">II. That the ſole power of debating and propoſing Lawes be in the Senate, and the ſole Reſult in the Repreſen<g ref="char:EOLhyphen"/>tative of the People.</p>
+            <p>That this Parliament diſſolve themſelves by Act, and that therein it be declared, that their diſſolution be as a Parliament, and the Legiſlative Authority they now exer<g ref="char:EOLhyphen"/>ciſe do determine the ſeventh day of <hi>May</hi> next.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:168685:3"/>
+               <!-- PDF PAGE 64 -->
+III. That betwixt this and the ſaid ſeventh of <hi>May,</hi> Writs iſſue out to ſuch places as this Parliament ſhall finde moſt equall, and indifferent for the Election of ſo many Members to themſelves, as to make up their number three hundred; which ſaid number ſhall enter with them into the Parliament Houſe the eighth day of <hi>May</hi> next, and the ſaid three hundred perſons ſhall be the Senate.</p>
+            <p n="4">IV. That the Senate do within one week after their firſt ſitting chooſe out of themſelves, one hundred to be of the Senate for one yeare, another hundred to be of the Senate for two yeares, another hundred to be of the Senate for three yeares, and that before the 14. of <hi>May,</hi> in every <hi>May</hi> yearely there be one hundred new Senators choſen out of thoſe that are laſt gone out of the Aſſembly of the People at that time, and that ſo many Senators go then out of the Senate, whoſe time ſhall be then expired.</p>
+            <p n="5">V. That after the firſt choiſe of the Senate, the nominati<g ref="char:EOLhyphen"/>on of the new Senators be in the Senate, and the choiſe to be in the Aſſembly of the People.</p>
+            <p n="6">VI. That there be an Aſſembly of a Repreſentative of the People at <hi>Weſtminſter,</hi> the 8th. day of <hi>May</hi> next to be choſen and perpetuated by Annual Elections as followeth, onely the firſt time, three times the number muſt be choſen, <hi>viz.</hi> one third part for one year, another third part for two yeares, and another third part for three years; and the ſaid Elections ſhall be annually made, upon or before the firſt <hi>Wedneſday</hi> in <hi>March</hi> without any Writ or Writs, or other Summons, <hi>viz.</hi>
+            </p>
+            <list>
+               <item>For the Town and County of Bedford <hi>Four</hi>
+               </item>
+               <item>For the County of Berks <hi>Five</hi>
+               </item>
+               <item>For the County of Bucks <hi>Five</hi>
+               </item>
+               <item>For the County of Cambridge &amp; Ile of Ely <hi>Five</hi>
+               </item>
+               <item>
+                  <pb n="5" facs="tcp:168685:3"/>
+                  <!-- PDF PAGE 64 -->
+For the Town of Cambridge <hi>One</hi>
+               </item>
+               <item>For the County of Cheſter <hi>Three</hi>
+               </item>
+               <item>For the County of Cornwall <hi>Eight</hi>
+               </item>
+               <item>For the County of Cumberland <hi>Two</hi>
+               </item>
+               <item>For the County of Derby <hi>Three</hi>
+               </item>
+               <item>For the County of Devon <hi>Twelve</hi>
+               </item>
+               <item>For the City of Exeter <hi>One</hi>
+               </item>
+               <item>For the County of Dorſet <hi>Six</hi>
+               </item>
+               <item>For the County of Durham <hi>Two</hi>
+               </item>
+               <item>For the County of York <hi>Sixteen</hi>
+               </item>
+               <item>
+                  <hi>viz.</hi> For the Town and county of Kingſtone upon Hull and the Eaſt-riding <hi>Four</hi>
+               </item>
+               <item>For the Northriding <hi>Four</hi>
+               </item>
+               <item>For the city &amp; county of the city of York <hi>One</hi>
+               </item>
+               <item>For the Weſt-riding <hi>Six</hi>
+               </item>
+               <item>For the Town and Pariſh of Leeds <hi>One</hi>
+               </item>
+               <item>For the County of Eſſex <hi>Ten</hi>
+               </item>
+               <item>For the County of Gloucester and City of Gloucester, and County of the City. <hi>Six</hi>
+               </item>
+               <item>For the County of Hereford <hi>Four</hi>
+               </item>
+               <item>For the County of Hartford <hi>Four</hi>
+               </item>
+               <item>For the County of Huntington <hi>Three</hi>
+               </item>
+               <item>For the County of Kent <hi>Twelve</hi>
+               </item>
+               <item>For the County of Lancanster <hi>Six</hi>
+               </item>
+               <item>For the County of Leiceſter <hi>Four</hi>
+               </item>
+               <item>For the County of Lincolne <hi>Ten</hi>
+               </item>
+               <item>
+                  <pb n="6" facs="tcp:168685:4"/>
+                  <!-- PDF PAGE 65 -->
+For the County of Middleſex <hi>Three</hi>
+               </item>
+               <item>For the City of Weſtminster <hi>One</hi>
+               </item>
+               <item>For the City of London <hi>Four</hi>
+               </item>
+               <item>For the County of Monmouth <hi>Two</hi>
+               </item>
+               <item>For the County of Norfolk <hi>Nine</hi>
+               </item>
+               <item>For the City of Norwich <hi>One</hi>
+               </item>
+               <item>For the County of Northampton <hi>Six</hi>
+               </item>
+               <item>For the County of Nottingham <hi>Four</hi>
+               </item>
+               <item>For the County of Northumberland, and Town of Barwick <hi>Four</hi>
+               </item>
+               <item>For the County of Oxford <hi>Five</hi>
+               </item>
+               <item>For the City of Oxford <hi>One</hi>
+               </item>
+               <item>For the County of Rutland <hi>One</hi>
+               </item>
+               <item>For the County of Salop <hi>Five</hi>
+               </item>
+               <item>For the County of Stafford <hi>Four</hi>
+               </item>
+               <item>For the County of Somerſet <hi>Ten</hi>
+               </item>
+               <item>For the City of Briſtol <hi>One</hi>
+               </item>
+               <item>For the County of Southhampton <hi>Nine</hi>
+               </item>
+               <item>For the County of Suffolk <hi>Ten</hi>
+               </item>
+               <item>For the County of Surrey <hi>Five</hi>
+               </item>
+               <item>For the Borrough of Southwark <hi>One</hi>
+               </item>
+               <item>For the Countie of Suſſex <hi>Nine</hi>
+               </item>
+               <item>For the Countie of Weſtmerland <hi>Two</hi>
+               </item>
+               <item>For the Countie of Warwick <hi>Four</hi>
+               </item>
+               <item>For the Countie and city and countie, of the city of Worceſter. <hi>Four</hi>
+               </item>
+               <item>
+                  <pb n="7" facs="tcp:168685:4"/>
+                  <!-- PDF PAGE 65 -->
+For the Countie of Wilts <hi>Nine</hi>
+               </item>
+               <item>for the County of Angleſey <hi>One</hi>
+               </item>
+               <item>for the County of Brecon <hi>One</hi>
+               </item>
+               <item>for the countie of Cardigan <hi>One</hi>
+               </item>
+               <item>for the countie of Caermathen <hi>One</hi>
+               </item>
+               <item>for the countie of Carnarvan <hi>One</hi>
+               </item>
+               <item>for the countie of Denbigh <hi>One</hi>
+               </item>
+               <item>for the countie of Flint <hi>One</hi>
+               </item>
+               <item>for the countie of Glamorgan <hi>Two</hi>
+               </item>
+               <item>for the countie of Merioneth <hi>One</hi>
+               </item>
+               <item>for the countie of Montgomery <hi>One</hi>
+               </item>
+               <item>for the countie of Pembrook <hi>Two</hi>
+               </item>
+               <item>for the countie of Radnor <hi>One</hi>
+               </item>
+               <item>For <hi>Scotland</hi> and <hi>Ilands</hi> thereto be<g ref="char:EOLhyphen"/>longing, to be proportioned by the <hi>Parliament</hi> or <hi>Councel</hi> of <hi>State. Twenty</hi>
+               </item>
+               <item>For <hi>Ireland,</hi> to be proportioned by <hi>Parliament</hi> or<hi>Councel</hi> of <hi>State. Twenty</hi>
+               </item>
+            </list>
+            <p>And if the <hi>Parliament</hi> and Councel of <hi>State</hi> cannot ſo pro<g ref="char:EOLhyphen"/>portion them, as to have twenty in each Nation choſen with conveniency every year, then ſo to proportion them, as that thirty in each may be choſen yearly, And ſo to order as that <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wice thirty may be choſen for each Nation, the firſt time, and no more.</p>
+            <p n="7">VII. That for the Election of the firſt <hi>Repreſentative</hi> of the People, the Ancient Lawes, Cuſtomes and Rules be obſerved, (with ſuch alterations as is hereby made) and that
+<pb n="8" facs="tcp:168685:5"/>
+               <!-- PDF PAGE 66 -->the Sheriffs, by themſelves or Deputies, and all others con<g ref="char:EOLhyphen"/>cerned ſee that the ſaid Elections be made, and the per<g ref="char:EOLhyphen"/>ſons choſen returned, as hath been uſual, without any Writ or Writs or other Summons, upon, or before the firſt <hi>Wedneſday</hi> in <hi>March</hi> next as aforeſaid, and ſuch perſons ſo choſen, ſhall enter into, and be of the Aſſembly of the People, the eighth day of <hi>May</hi> Annually.</p>
+            <p n="8">VIII. That no perſon or perſons be Eligible, who ſhall not firſt declare, and Ingage under his or their hands and Seales to be true faithful, and conſtant to this <hi>Com<g ref="char:EOLhyphen"/>monwealth,</hi> without a <hi>King, Protector,</hi> or other Single Perſon in the Government over theſe <hi>Nations,</hi> as alſo aginſt a Houſe of <hi>Lords</hi> or <hi>Peeres,</hi> or any Perſon or Per<g ref="char:EOLhyphen"/>ſons that ſhall claim or Exerciſe any Authority in theſe <hi>Nations</hi> otherwiſe then by or from the choyce of the Peo<g ref="char:EOLhyphen"/>ple.</p>
+            <p n="9">IX. That no Perſon or Perſons be capable of Electing or being Elected, to be of the <hi>Senate</hi> or <hi>Aſſembly</hi> of the People, that have Ayded, Abetted, or Aſſiſted the late <hi>King Charles</hi> or his Son in their Warres againſt this <hi>Parliament</hi> or <hi>Commonwealth,</hi> unleſſe they have given or ſhall give ſignal teſtimony of their good affections to the Govern<g ref="char:EOLhyphen"/>ment of theſe <hi>Nations,</hi> by way of a <hi>Commonwealth,</hi> or until it ſhall be otherwiſe declared by the <hi>Senate,</hi> and <hi>Repre<g ref="char:EOLhyphen"/>ſentative</hi> of the People.</p>
+            <p n="10">X. That no Perſon or Perſons be capable of being Elected to be of the <hi>Senate,</hi> until he or they have given, or ſhall give ſignal teſtimony of his or their good affections to the Government of theſe Nations, in the way of a Common<g ref="char:EOLhyphen"/>wealth, or until it ſhall be otherwiſe agreed upon by the <hi>Senate</hi> and <hi>Repreſentative</hi> of the People.</p>
+            <p n="11">XI. That if any Perſon or Perſons ſhall preſume to ſit or Vote in the <hi>Senate</hi> or <hi>Aſſembly</hi> of the People before he or they have declared as aforeſaid, or not being qualified
+<pb n="9" facs="tcp:168685:5"/>
+               <!-- PDF PAGE 66 -->as aforeſaid (without licence of the Senate) or being admit<g ref="char:EOLhyphen"/>ted, ſhall propoſe, or give his or their conſents to alter the Government contrary to the ſaid Declaration; or ſhall pro<g ref="char:EOLhyphen"/>poſe or give his or their conſents, to proſecute for Conſci<g ref="char:EOLhyphen"/>ence every perſon ſo offending, ſhall forfeit his whole eſtate reall and perſonall to the Common-wealth: And the Treaſu<g ref="char:EOLhyphen"/>rers, for the time being ſhall, and hereby have power to ſeize and become accomptable for the ſame to the Commonwealth accordingly.</p>
+            <p n="12">XII. That the Exerciſe of the chief Magiſtracy and Admi<g ref="char:EOLhyphen"/>niſtration of the Government over the Nations of <hi>England, Scotland,</hi> and <hi>Ireland,</hi> and the Dominions and Territories thereunto belonging, and all Writs, Proceſs, Commiſſions, Patents, Grants, and other things, which now do, or at any time did, or might run in the name or ſtile of the Keep<g ref="char:EOLhyphen"/>ers of the Liberty of <hi>England</hi> by Authority of Parliament, ſhall from and after the ſeventh day of <hi>May</hi> next, run in the name and Stile of The Senate and People of <hi>England.</hi>
+            </p>
+            <p n="13">XIII. That there be a Councell of State conſiſting of fifteen perſons, <hi>viz.</hi> five out of each Squadron of the Senate, perpetuated by the ſupply of five out of each new Squadron, that ſhall be from time to time elected into the Senate, and the like number then to recede that were choſen out of the Squadron of the Senate whoſe time is expired.</p>
+            <p n="14">XIV. That there be a Councell of War conſiſting of nine perſons choſen and perpetuated by the Councell of State out of themſelves, <hi>viz.</hi> three out of each order annually as a<g ref="char:EOLhyphen"/>foreſaid.</p>
+            <p n="15">XV. That there be a Councel of Trade conſiſting of twelve perſons elected and perpetuated in the ſame manner out of the Senate.</p>
+            <p n="16">XVI. That there be three Commiſſioners of the Trea<g ref="char:EOLhyphen"/>ſury, and three Commiſſioners of the Great Seale, choſen
+<pb n="10" facs="tcp:168685:6"/>
+               <!-- PDF PAGE 67 -->out of, and by the Senate, <hi>viz.</hi> one out of each order or Squadron of the Senate, and perpetuated by annual Elections as aforeſaid.</p>
+            <p n="17">XVII. That there be three Commanders in Chiefe by Land <hi>(viz.)</hi> one for <hi>England.</hi> one for <hi>Scotland,</hi> and one for <hi>Ireland;</hi> and that he who is for <hi>England</hi> be Generall of the whole Army; and he that is for <hi>Scotland</hi> be Lieutenant Ge<g ref="char:EOLhyphen"/>nerall; And he that is for <hi>Ireland</hi> be Major Generall, in caſe there be any occaſion of Conjunction of any of the Ar<g ref="char:EOLhyphen"/>mies to prevent Competition for the chief command, and that there be annually a Major General choſen to command a yeare in <hi>Ireland,</hi> and then to remove of courſe to command a year in <hi>Scotland</hi> as Lieutenant General, and then to re<g ref="char:EOLhyphen"/>move of courſe into <hi>England</hi> to command a year as General, and ſo the ſaid Commands to be perpetuated by the like An<g ref="char:EOLhyphen"/>nual Elections and Removes.</p>
+            <p>That there be three Generals at Sea perpetuated by the Annual Election of one and the Receding of one, at the end of every year, and that he that is the Eldeſt choſen be Ad<g ref="char:EOLhyphen"/>miral, the ſecond choſen Vice Admiral, and the third Rere Admiral, for their reſpective years ſucceſſively, and accor<g ref="char:EOLhyphen"/>ding to their Seniorities as aforeſaid.</p>
+            <p n="18">XVIII. That all Elections be made by the <hi>Senate,</hi> that all <hi>Field Officers</hi> be propoſed by the <hi>Councel</hi> of <hi>War;</hi> all <hi>Am<g ref="char:EOLhyphen"/>baſſadors</hi> Extraordinary, by the <hi>Councel</hi> of <hi>State;</hi> all <hi>Judges</hi> and <hi>Serjeants</hi> at Law by the <hi>Commiſſioners</hi> of the <hi>Great Seal;</hi> all <hi>Barons</hi> and Officers of Truſt in the <hi>Exchequer,</hi> by the <hi>Commiſſioners</hi> of the <hi>Treaſury,</hi> and that ſuch as are ſo propoſed and Elected, do act according to former practice and the Lawes in being, or which hereafter ſhall be, in the ſeveral places into which they ſhall be reſpectively choſen.</p>
+            <p n="19">XIX. That the calling to Accompt and Puniſhing all Offi<g ref="char:EOLhyphen"/>cers ſo propoſed and choſen for breach of Truſt or other crimes, be by the <hi>Parliament</hi> or <hi>Aſſembly</hi> of the People.</p>
+            <p n="20">
+               <pb n="11" facs="tcp:168685:6"/>
+               <!-- PDF PAGE 67 -->
+XX. That no Perſon be imployed in more then one place of profit in the <hi>Commonwealth</hi> at the ſame time, and that no Perſon continue above three years in one imployment, with<g ref="char:EOLhyphen"/>out a new Election, nor be Elegible into the ſame imploy<g ref="char:EOLhyphen"/>ment, without as long an Interval as he was before in the ſame Imployment. And that all Elections be made void and new ones made, when and in ſuch Caſes it ſhall be proved that any perſon that ſhall be choſen, did directly or Indi<g ref="char:EOLhyphen"/>rectly indeavour to get himſelf choſen, or did by himſelf, or any other on his behalf, with his knowledge and conſent give any gift or reward for or in reſpect of the ſaid Ele<g ref="char:EOLhyphen"/>ction.</p>
+            <p n="21">XXI. That in caſe of Death or other Removeal of any Perſon choſen into any Place or Imployment as aforeſaid, a New Election be made of another into his place to ſupply the reſt of his Term to expire.</p>
+            <p n="22">XXII. That all other things neceſſary for the perfecting and firm ſetling this Commonwealth, both in Civil and Re<g ref="char:EOLhyphen"/>ligious Adminiſtrations be according as ſhall be from time to time propoſed by the <hi>Senate,</hi> and aſſented unto by the People Aſſembled in <hi>Parliament,</hi> and not otherwiſe.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
